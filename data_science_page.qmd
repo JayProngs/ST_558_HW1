@@ -30,9 +30,7 @@ Data Scientist is the one who can use data to solve and analyze real world probl
     2.  Both focus on reproducibility and accuracy
 -   Differences
     1.  Application areas are totally different.
-    2.  Tools used are different.
-
-Data Scientist can use *ML Libraries* whereas statistician use *specialized software*.
+    2.  Tools used are different. Data Scientist can use *ML Libraries* whereas statistician use *specialized software*.
 
 **3. How do you view yourself in relation to these two areas?**
 
