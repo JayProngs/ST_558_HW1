@@ -36,7 +36,7 @@ Data Scientist is the one who can use data to solve and analyze real world probl
 
 **Answer:**
 
-I see myself as bridge between both of them. I have specialization in Programming and intrest in statistic. And we know *Data Scientist is someone who's better in coding than Statistician and better at Statistic than Computer Scientist*.
+I see myself as bridge between both of them. I have specialization in Programming and intrest in statistic. And we know *Data Scientist is someone who's better in coding than Statistician and better at Statistics than Computer Scientist*.
 
 ## Code Execution
 
