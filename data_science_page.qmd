@@ -40,7 +40,7 @@ I see myself as bridge between both of them. I have specialization in Programmin
 
 ## Code Execution
 
-Below code assigns density of Petal.width attribute from iris dataset to variable 'y'
+Below code assigns density of Petal.width attribute from iris dataset to object variable 'y'
 
 ```{r}
 y <- density(iris$Petal.Width)
@@ -54,7 +54,7 @@ typeof(y)
 structure(y)
 ```
 
-#### Below is the plot for variable 'y'.
+Below is the plot for object 'y'.
 
 ```{r}
 #| echo: false
