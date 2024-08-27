@@ -46,7 +46,7 @@ Below code assigns density of Petal.width attribute from iris dataset to variabl
 y <- density(iris$Petal.Width)
 ```
 
-Below code uses class(), typeof() and structure() to get Class, type and structure of objects 'y'.
+Below code uses class(), typeof() and structure() to get Class, type and structure of object 'y'.
 
 ```{r}
 class(y)
@@ -54,7 +54,7 @@ typeof(y)
 structure(y)
 ```
 
-Below is the plot for variable 'y'.
+#### Below is the plot for variable 'y'.
 
 ```{r}
 #| echo: false
