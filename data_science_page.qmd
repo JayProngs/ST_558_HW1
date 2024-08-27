@@ -1,0 +1,66 @@
+---
+title: "Data Science Foundation"
+author: "Jay Thakur"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+## Personal Answers to Questions
+
+**1. What do you think being a data scientist is about?**
+
+**Answer:**
+
+Data Scientist is the one who can use data to solve and analyze real world problems. This can be either very short analytical process or long tedious process. This can include:
+
+-   Gathering Data
+-   Data Preprocessing
+    -   Cleaining, normalizing or standardizing data
+-   Model building
+-   Analytical inference and results
+
+**2. What differences/similarities do you see between data scientists and statisticians?**
+
+**Answer:**
+
+-   Similarities
+    1.  Both rely on Statistical theories and methods
+    2.  Both focus on reproducibility and accuracy
+-   Differences
+    1.  Application areas are totally different.
+    2.  Tools used are different.
+
+Data Scientist can use *ML Libraries* whereas statistician use *specialized software*.
+
+**3. How do you view yourself in relation to these two areas?**
+
+**Answer:**
+
+I see myself as bridge between both of them. I have specialization in Programming and intrest in statistic. And we know *Data Scientist is someone who's better in coding than Statistician and better at Statistic than Computer Scientist*.
+
+## Code Execution
+
+Below code assigns density of Petal.width attribute from iris dataset to variable 'y'
+
+```{r}
+y <- density(iris$Petal.Width)
+```
+
+Below code uses class(), typeof() and structure() to get Class, type and structure of objects 'y'.
+
+```{r}
+class(y)
+typeof(y)
+structure(y)
+```
+
+Below is the plot for variable 'y'.
+
+```{r}
+#| echo: false
+plot(y, main = "Plot of Petal Width")
+```
+
+We have used `echo: false` option to disable the printing of code and just to display the plot.
